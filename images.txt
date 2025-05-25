@@ -1,1 +1,1 @@
-wordpress:v1.0
+wordpress:6.8-php8.2-apache
