@@ -1,2 +1,1 @@
-dashboard:2.6.1
-metrics-scraper:1.0.8
+dashboard:v2.6.1
