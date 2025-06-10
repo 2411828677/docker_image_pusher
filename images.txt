@@ -1,1 +1,2 @@
-nginx:1.18
+dashboard:2.6.1
+metrics-scraper:1.0.8
