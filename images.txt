@@ -1,1 +1,1 @@
-dashboard:v2.6.1
+busybox-curl:1.0.0
