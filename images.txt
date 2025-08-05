@@ -1,1 +1,1 @@
-openjdk:11-jre-slim
+zookeeper:3.6.2
