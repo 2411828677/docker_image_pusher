@@ -1,1 +1,1 @@
-minio/mc:RELEASE.2023-03-23T03-44-27Z
+registry.cn-hangzhou.aliyuncs.com/minio/mc:RELEASE.2023-03-13T19-40-09Z
