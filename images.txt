@@ -1,1 +1,1 @@
-minio/mc:latest
+minio/mc:RELEASE.2023-03-28T18-31-46Z
