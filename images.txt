@@ -1,2 +1,2 @@
-registry.k8s.io/etcd:3.5.7-0
-registry.k8s.io/coredns/coredns:v1.10.1
+calico/node:v3.25.1
+calico/cni:v3.25.1
