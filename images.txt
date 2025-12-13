@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.4
+zilliz/attu:v2.4.5
