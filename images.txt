@@ -1,1 +1,1 @@
-zilliztech/milvus-config-tool:v0.1.5
+milvusdb/milvus:v2.4.4-grpc154
