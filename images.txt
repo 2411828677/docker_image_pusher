@@ -1,1 +1,1 @@
-zilliz/attu:v2.4.5
+milvusdb/milvus-config-tool:v0.1.2
