@@ -1,1 +1,1 @@
-milvus-benchmark:latest
+kylinos/python:3.9-slim
