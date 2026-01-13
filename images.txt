@@ -1,1 +1,1 @@
-milvusdb/milvus-benchmark:latest
+milvus-benchmark:latest
