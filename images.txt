@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.4-grpc154
+milvusdb/milvus-benchmark:latest
