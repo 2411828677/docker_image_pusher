@@ -1,1 +1,1 @@
-kylinos/python:3.9-slim
+python:3.9-alpine3.18
