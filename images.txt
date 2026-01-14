@@ -1,1 +1,1 @@
-zilliz/vectordbbench:latest
+vectordbbench:latest
